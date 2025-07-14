@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Countdown from './Countdown'; // 1. Importe o novo componente
+import Countdown from './Countdown';
 
 function App() {
   return (
